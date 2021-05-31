@@ -1,0 +1,71 @@
+.naslov {color: #bf8471}
+.boja {color: #bf8471}
+.boja {font-size: 20px;
+		text-shadow: 1px 1px gray;
+}
+body {
+	background-image: url("restoran-stol-1 (1).jpg");
+
+}
+.uvod {background-color: black;
+	opacity: 0.7;
+	border: solid 2px #bf8471;
+}
+
+.naslov {font-size: 60px;
+	font-family: Vivaldi;
+	padding-left: 15px;
+	letter-spacing: 3px;
+}
+
+.ikona {float: right; 
+		border-radius: 7px}
+.boja {padding-left: 30px;
+		
+ }
+.topnav{
+	background-color: black;
+	overflow: hidden;
+
+}
+.topnav a{
+	float: left;
+	color: #bf8471;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px; 
+
+}
+.topnav a:hover{
+	background-color: #bf8471;
+	color: black;
+
+}
+.topnav a:active{
+	background-color: white;
+	color:black;
+
+}
+.bo {
+	background-color: black;
+	opacity: 0.7;
+	border: solid 2px #bf8471;
+	color: #bf8471;
+	padding: 20px;
+	margin-top: 200px;
+	margin-left: 50%;
+	padding-top: 30px;
+}
+.opis {font-size: 30px;
+	color: white;
+	text-shadow: 1px 1px gray;
+	font-family: Castellar;
+	padding-right: 60px;
+	padding-bottom: 20px;
+	}
+	
+.opiss {color: #bf8471;
+		font-size: 25px;
+		padding-bottom: 50px;
+}
